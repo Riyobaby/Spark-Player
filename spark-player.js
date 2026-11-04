@@ -266,7 +266,7 @@
     // ═══════════════════════════════════════════
     const initWatermark = () => {
         const watermark = document.createElement('div');
-        watermark.textContent = 'Thunder FileToLink';
+        watermark.textContent = 'Sᴘᴀʀᴋ ᴋᴍx Pʟᴀʏᴇʀ ♨';
         Object.assign(watermark.style, {
             position: 'fixed',
             bottom: '12px',
